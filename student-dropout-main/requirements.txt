@@ -1,9 +1,0 @@
-flask
-numpy
-pandas
-gunicorn
-pickle-mixin
-scikit-learn
-sklearn
-stats
-xgboost
